@@ -99,108 +99,58 @@ margin-top: 30px;
   text-align: left;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .dark-2{
-    color: rgb(13, 19, 33) 
- }
-
- p{
-    font-size: 16px;
- }
-
- .banner-title{
-    font-size: 40px;
-    font-weight: 700;
-    
- }
-
-/* section one style starts */
-/* .hero {
-  background-image: url("../images/Hero-bg.png");
-  max-width: 1440px;
-  margin: 0 auto;
-  min-height: 652px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-  padding: 20px;
-  text-align: center;
-}
-
-.banner-description {
-  margin-bottom: 35px;
-}
-
-.btn {
-  padding: 10px 20px;
-  background-color: black;
-  border-radius: 8px;
-  color: white;
-  padding: 18px 24px 18px 24px;
-}
-/* section one style ends */
-
-/* section two style ends */
-/* .why-web-dev {
-  margin-top: 150px;
-  text-align: center;
-  margin-right: 296px;
-  margin-left: 292px;
-}
-
-.label_1 {
+.skills-container {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  margin-right: 380px;
-  margin-left: 390px;
-  margin-top: 25px;
+  gap: 24px;
 }
-
-.label_title {
-  font-size: 24px;
-  font-weight: 700;
-}
-.label_1_description {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 26px;
-  letter-spacing: 0%;
+.skill-1 {
+  padding: 30px;
+  border-radius: 5px;
+  background-color: rgba(255, 76, 30, 0.05);;
   text-align: left;
 }
+.skill-2 {
+  padding: 30px;
+  border-radius: 5px;
+  background-color: rgba(255, 76, 30, 0.05);
+  text-align: left;
+}
+.skill-3 {
+  padding: 30px;
+  border-radius: 5px;
+  background-color: rgba(255, 223, 0, 0.05);
+  text-align: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
