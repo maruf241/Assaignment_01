@@ -130,7 +130,6 @@ header .btn {
   margin-right: 275px;
   margin-left: 292px;
   margin-top: 64px;
-
 }
 .last-section-text {
   text-align: center;
@@ -154,18 +153,26 @@ header .btn {
   border-radius: 8px;
   background: rgb(255, 255, 255);
 }
-.footer-bg{
+.footer-bg {
   background-color: rgba(13, 19, 33, 0.03);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   margin-top: 50px;
-  
 }
-.footer-section{
+.footer-section {
   margin-top: 0px;
   display: flex;
   justify-content: center;
   justify-content: space-between;
   align-items: center;
 }
+
+.dark-2 {
+  color: rgb(13, 19, 33);
+}
+
+.dark-1 {
+  color: rgba(13, 19, 33, 0.7);
+}
+
